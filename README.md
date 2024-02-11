@@ -44,13 +44,15 @@
 </details>
 
 ## About The Project
-![CrazyEightsLobby](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/5b15aad7-8a52-44fc-aea8-b4987bb9e7fc)
-![CrazyEightsGame](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/7c80a7c3-bcfe-4c02-aa8f-9984bec3abc6)
-
 React Crazy Eights is a web application that allows users to play the game Crazy Eights.
 
 Players can join existing lobbies or create their own, and once there are enough players, the host can start the game.
 
+![CrazyEightsLobby](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/5b15aad7-8a52-44fc-aea8-b4987bb9e7fc)
+
+The application knows the rules and will not allow players to break the rules of the game.
+
+![CrazyEightsGame](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/7c80a7c3-bcfe-4c02-aa8f-9984bec3abc6)
 The application supports Google login or anonymous login using Firebase as the backend database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
