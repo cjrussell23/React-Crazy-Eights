@@ -1,1 +1,102 @@
-An online multiplayer card game. The app has a lobby system using firebase as a database snd google auth for logging in. Users can create a lobby and share the lobby code with their friends to play a game. Currebtly working on adding crazy eights. 
+# React Crazy Eights
+
+<a name="readme-top"></a>
+
+<br />
+<div align="center">
+
+  <h3 align="center">React Crazy Eights</h3>
+
+  <p align="center">
+    A web application for playing the game Crazy Eights. Players can join or create lobbies, and once there are enough players, the host can start the game.
+    <br />
+    <br />
+    <a href="https://github.com/cjrussell23/React-Crazy-Eights"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/cjrussell23/React-Crazy-Eights/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/cjrussell23/React-Crazy-Eights/issues">Request Feature</a>
+  </p>
+</div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+## About The Project
+
+React Crazy Eights is a web application that allows users to play the game Crazy Eights. Players can join existing lobbies or create their own, and once there are enough players, the host can start the game. The application supports Google login or anonymous login using Firebase as the backend database.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+- [React](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Node.js
+- Firebase project set up (with authentication enabled)
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/cjrussell23/React-Crazy-Eights.git
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Roadmap
+
+- [ ] Implement chat functionality within lobbies
+- [ ] Allow customization of game rules
+- [ ] Improve UI/UX
+
+See the [open issues](https://github.com/cjrussell23/React-Crazy-Eights/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+Charles Russell - chjrussell@gmail.com
+
+Project Link: [https://github.com/cjrussell23/React-Crazy-Eights](https://github.com/cjrussell23/React-Crazy-Eights)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+- [Firebase](https://firebase.google.com/)
+- [React](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
