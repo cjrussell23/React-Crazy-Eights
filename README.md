@@ -9,7 +9,6 @@
 
   <p align="center">
     A web application for playing the game Crazy Eights.
-    
     Deployed to <a href="https://crazy-eights.chjrussell.com/">https://crazy-eights.chjrussell.com/</a>
     <br />
     <br />
