@@ -37,7 +37,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -45,7 +44,11 @@
 
 ## About The Project
 
-React Crazy Eights is a web application that allows users to play the game Crazy Eights. Players can join existing lobbies or create their own, and once there are enough players, the host can start the game. The application supports Google login or anonymous login using Firebase as the backend database.
+React Crazy Eights is a web application that allows users to play the game Crazy Eights.
+
+Players can join existing lobbies or create their own, and once there are enough players, the host can start the game.
+
+The application supports Google login or anonymous login using Firebase as the backend database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,16 +75,12 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/cjrussell23/React-Crazy-Eights.git
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Roadmap
-
-- [ ] Implement chat functionality within lobbies
-- [ ] Allow customization of game rules
-- [ ] Improve UI/UX
-
-See the [open issues](https://github.com/cjrussell23/React-Crazy-Eights/issues) for a full list of proposed features (and known issues).
+2. Install NPM packages. Note: Create-React-App and many of the packages in this repo are out of date. You may require the --force flag to install
+   ```sh
+   npm install
+   npm install --force
+   ```
+3. Open your browser and navigate to http://localhost:3000 to view the website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
