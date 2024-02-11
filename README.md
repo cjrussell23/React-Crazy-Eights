@@ -8,7 +8,9 @@
   <h3 align="center">React Crazy Eights</h3>
 
   <p align="center">
-    A web application for playing the game Crazy Eights. Players can join or create lobbies, and once there are enough players, the host can start the game.
+    A web application for playing the game Crazy Eights.
+    
+    Deployed to <a href="https://crazy-eights.chjrussell.com/">https://crazy-eights.chjrussell.com/</a>
     <br />
     <br />
     <a href="https://github.com/cjrussell23/React-Crazy-Eights"><strong>Explore the docs »</strong></a>
