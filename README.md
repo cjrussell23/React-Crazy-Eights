@@ -44,6 +44,8 @@
 </details>
 
 ## About The Project
+![CrazyEightsLobby](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/5b15aad7-8a52-44fc-aea8-b4987bb9e7fc)
+![CrazyEightsGame](https://github.com/cjrussell23/React-Crazy-Eights/assets/81775200/7c80a7c3-bcfe-4c02-aa8f-9984bec3abc6)
 
 React Crazy Eights is a web application that allows users to play the game Crazy Eights.
 
