@@ -8,7 +8,7 @@
   <h3 align="center">React Crazy Eights</h3>
 
   <p align="center">
-    A web application for playing the game Crazy Eights.<br />
+    A web application for playing the game Crazy Eights online with friends.<br />
     Deployed to <a href="https://crazy-eights.chjrussell.com/">https://crazy-eights.chjrussell.com/</a>
     <br />
     <br />
